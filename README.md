@@ -15,13 +15,13 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/yourusername/fitness-schedule-management.git
+   git clone https://github.com/madiyaryergali/fitness_project.git
    ```
 
 2. Перейдите в директорию проекта:
 
    ```bash
-   cd fitness-schedule-management
+   cd fitness_project
    ```
 
 3. Установите зависимости:
